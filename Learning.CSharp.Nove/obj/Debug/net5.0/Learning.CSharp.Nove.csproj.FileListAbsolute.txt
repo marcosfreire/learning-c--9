@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\bin\Debug\net5.0\Learning.CSharp.Nove.exe
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\bin\Debug\net5.0\Learning.CSharp.Nove.deps.json
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\bin\Debug\net5.0\Learning.CSharp.Nove.runtimeconfig.json
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\bin\Debug\net5.0\Learning.CSharp.Nove.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\bin\Debug\net5.0\Learning.CSharp.Nove.dll
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\bin\Debug\net5.0\Learning.CSharp.Nove.pdb
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\obj\Debug\net5.0\Learning.CSharp.Nove.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\obj\Debug\net5.0\Learning.CSharp.Nove.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\obj\Debug\net5.0\Learning.CSharp.Nove.AssemblyInfo.cs
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\obj\Debug\net5.0\Learning.CSharp.Nove.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\obj\Debug\net5.0\Learning.CSharp.Nove.dll
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\obj\Debug\net5.0\Learning.CSharp.Nove.pdb
+C:\Users\marco\source\repos\Learning.CSharp.Nove\Learning.CSharp.Nove\obj\Debug\net5.0\Learning.CSharp.Nove.genruntimeconfig.cache
