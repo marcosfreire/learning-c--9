@@ -1,0 +1,12 @@
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\bin\Debug\net5.0\Learning.CSharp.Nine.exe
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\bin\Debug\net5.0\Learning.CSharp.Nine.deps.json
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\bin\Debug\net5.0\Learning.CSharp.Nine.runtimeconfig.json
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\bin\Debug\net5.0\Learning.CSharp.Nine.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\bin\Debug\net5.0\Learning.CSharp.Nine.dll
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\bin\Debug\net5.0\Learning.CSharp.Nine.pdb
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\obj\Debug\net5.0\Learning.CSharp.9.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\obj\Debug\net5.0\Learning.CSharp.9.AssemblyInfo.cs
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\obj\Debug\net5.0\Learning.CSharp.9.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\obj\Debug\net5.0\Learning.CSharp.Nine.dll
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\obj\Debug\net5.0\Learning.CSharp.Nine.pdb
+C:\Users\marco\source\repos\Learning.CSharp.Nove\src\Learning.CSharp.Nine\obj\Debug\net5.0\Learning.CSharp.9.genruntimeconfig.cache
